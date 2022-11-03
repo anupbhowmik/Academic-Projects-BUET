@@ -17,4 +17,6 @@ These are the projects that I made during my Academic years at BUET
 - [Database and React Project](https://github.com/Anupznk/BrightMate-Library-Database-Project)
 
 ## Level 3 Term 1
+- [LaTeX Presentation](https://github.com/Anupznk/LaTeX-CSE-300/tree/main)
+- [Computer Architecture Projects](https://github.com/Anupznk/Computer-Architecture-CSE-306)
 - 
