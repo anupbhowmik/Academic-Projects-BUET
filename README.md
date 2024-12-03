@@ -19,7 +19,7 @@ These are the projects that I made during my Academic years at BUET
 ## Level 3 Term 1
 - [LaTeX Presentation](https://github.com/Anupznk/LaTeX-CSE-300/tree/main)
 - [Computer Architecture Projects](https://github.com/Anupznk/Computer-Architecture-CSE-306)
-- [Software Engineering](https://github.com/Anupznk/Software-Engineering-CSE-308)
+- [Design Patterns - Software Engineering](https://github.com/anupbhowmik/Design-Patterns-Software-Engineering)
 - [Assembly Codes](https://github.com/Anupznk/Assembly-Codes-CSE-316/tree/master)
 - [MicroController Basics](https://github.com/Anupznk/MicroController-Projects-Basics/tree/master)
 - [MicroController Project (A Game on LED Matrix)](https://github.com/Anupznk/Space-Attack-CSE-316-Project/tree/master)
@@ -34,4 +34,3 @@ These are the projects that I made during my Academic years at BUET
 
 ## Level 4 Term 1
 - [Ray Tracing OpenGL)[https://github.com/anupbhowmik/Ray-Tracing-OpenGL]
-- 
