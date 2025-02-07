@@ -35,3 +35,4 @@ These are the projects that I made during my Academic years at BUET
 ## Level 4 Term 1
 - [Ray Tracing OpenGL](https://github.com/anupbhowmik/Ray-Tracing-OpenGL)
 - [ML Classifier: Logistic Regression and AdaBoost Classifier from Scratch](https://github.com/anupbhowmik/Logistic-Regression-with-AdaBoost)
+- [Neural Network From Scratch](https://github.com/anupbhowmik/Neural-Network-From-Scratch)
