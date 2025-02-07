@@ -29,8 +29,9 @@ These are the projects that I made during my Academic years at BUET
 - [Minesweeper-AI](https://github.com/anupbhowmik/Minesweeper-AI)
 - [Latin Square-AI Solver](https://github.com/anupbhowmik/Constraint-Satisfaction-Problem-AI)
 - [N-Puzzle-AI Solver](https://github.com/anupbhowmik/N-Puzzle-AI-Solution)
-- [Modification on xv6-risc-v](https://github.com/anupbhowmik/Trace-and-Sysinfo-on-Xv6-for-RISC-V)
+- [OS xv6-risc-v](https://github.com/anupbhowmik/Trace-and-Sysinfo-on-Xv6-for-RISC-V)
 - [ISD Project](https://github.com/anupbhowmik/Creative-Production-Management-SWE)
 
 ## Level 4 Term 1
-- [Ray Tracing OpenGL)[https://github.com/anupbhowmik/Ray-Tracing-OpenGL]
+- [Ray Tracing OpenGL](https://github.com/anupbhowmik/Ray-Tracing-OpenGL)
+- [ML Classifier: Logistic Regression and AdaBoost Classifier from Scratch](https://github.com/anupbhowmik/Logistic-Regression-with-AdaBoost)
